@@ -6,10 +6,10 @@
     { "Trail No.": 52588, "train name": "River View Passenger" }
   ],
   "comments": [
-    {"Trail No.": 52587, "Dep.": 7:00, "body": "Kurseong-Darjeeling", "Arr.": 9:45 },
-    {"Trail No.": 52545, "Dep.": 14:15, "body": "Mahanadi-Darjeeling", "Arr.": 17:45},
-    {"Trail No.": 52544, "Dep.": 14:15, "body": "Darjeeling-Mahanadi", "Arr.": 14:00},
-    {"Trail No.": 52588, "Dep.": 16:00, "body": "Darjeeling-Kurseong", "Arr.": 18:40}
+    {"Trail No.": 52587, "Dep.": "7:00", "body": "Kurseong-Darjeeling", "Arr.": "9:45" },
+    {"Trail No.": 52545, "Dep.": "14:15", "body": "Mahanadi-Darjeeling", "Arr.": "17:45"},
+    {"Trail No.": 52544, "Dep.": "10:15", "body": "Darjeeling-Mahanadi", "Arr.": "14:00"},
+    {"Trail No.": 52588, "Dep.": "16:00", "body": "Darjeeling-Kurseong", "Arr.": "18:40"}
   ],
   "profile": {
     "name": "typicode"
